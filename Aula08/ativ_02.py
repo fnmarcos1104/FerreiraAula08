@@ -34,9 +34,6 @@ def multa(peso_peixe, PESO_LIMITE):
 PESO_LIMITE = 100
 peso_peixe = float(input('Informe o peso do peixe: '))
 
-# m3 = multa()
-# # resultado = multa()
-# # x1 = multa(resultado)
  
 x3 = multa(peso_peixe, PESO_LIMITE)
 
